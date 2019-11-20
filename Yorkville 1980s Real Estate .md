@@ -1,3 +1,5 @@
+Source: https://nyti.ms/2OsAItC
+
 LIKE many parts of Manhattan, the area known as Yorkville finds that its distinctiveness as a neighborhood is fading.
 
 ''When you said 'Yorkville' it used to mean something,'' said Assemblyman Alexander B. Grannis, a Democrat-Liberal who represents the neighborhood. ''But now it's just a physical place; the name doesn't mean much anymore.''
