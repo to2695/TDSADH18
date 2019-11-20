@@ -8,9 +8,8 @@
 	<body>
 		<h1>Tim's Test Web Page</h1>
 		
-		<p>The article I chose was a New York  article about Federal Troops being sent to Little Rock Arkansas to ensure school 
-			integration occured.
-			
+		<p>The article I chose was a New York Times article about the evolving real estate and cultural landscape in Yorkvile.
+		
 			<a href = "../docs/Yorkville 1980s Real Estate .md">This is a link to my annotated Markdown page</a> that transcribes the first few paragraphs of the article and includes
 			a link to an image of the article as it appearned in the New York Times.
 		</p>
